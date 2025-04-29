@@ -1,10 +1,371 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Film_icon.png" group-title="Filmes",Big Buck Bunny
-https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Film_icon.png" group-title="Filmes",Sintel
-https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Film_icon.png" group-title="Filmes",Tears of Steel
-https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4
+#EXTINF:-1,Globo - TV Anhanguera Goias
+http://www.redeglobo.globo.com
+#EXTINF:-1,Globo - Nacional
+http://www.redeglobo.globo.com
+#EXTINF:-1,Globo - InterTV RN
+http://www.redeglobo.globo.com
+#EXTINF:-1,Globo - TV Liberal
+http://www.redeglobo.globo.com
+#EXTINF:-1,Globo Minas
+http://www.redeglobo.globo.com
+#EXTINF:-1,Globo - TV Mirante
+http://www.redeglobo.globo.com
+#EXTINF:-1,Globo - TV Morena
+http://www.redeglobo.globo.com
+#EXTINF:-1,Globo - NSC TV
+http://www.redeglobo.globo.com
+#EXTINF:-1,Globo Nordeste
+http://www.redeglobo.globo.com
+#EXTINF:-1,Globo - RBS TV
+http://www.redeglobo.globo.com
+#EXTINF:-1,Globo Rio
+http://www.redeglobo.globo.com
+#EXTINF:-1,Globo - TV Rio Sul
+http://www.redeglobo.globo.com
+#EXTINF:-1,Globo - RPC
+http://www.redeglobo.globo.com
+#EXTINF:-1,Globo - TV Sergipe
+http://www.redeglobo.globo.com
+#EXTINF:-1,Globo - TV Tapajos
+http://www.redeglobo.globo.com
+#EXTINF:-1,Globo - TV TEM
+http://www.redeglobo.globo.com
+#EXTINF:-1,Globo - TV Tribuna
+http://www.redeglobo.globo.com
+#EXTINF:-1,Globo - TV Vanguarda
+http://www.redeglobo.globo.com
+#EXTINF:-1,Globo - TV Verdes Mares
+http://www.redeglobo.globo.com
+#EXTINF:-1,SBT Central
+http://www.clarotv.com.br.EK
+#EXTINF:-1,SBT Interior RJ
+http://www.clarotv.com.br.EK
+#EXTINF:-1,SBT - TV Sorocaba
+http://www.clarotv.com.br.EK
+#EXTINF:-1,Record Cabrália
+http://www.clarotv.com.br.EK
+#EXTINF:-1,Record Interior SP
+http://www.clarotv.com.br.EK
+#EXTINF:-1,Record Litoral e Vale
+http://www.clarotv.com.br.EK
+#EXTINF:-1,Record - TV Paranaiba
+http://www.clarotv.com.br.EK
+#EXTINF:-1,Record - RICtv Curitiba
+http://www.clarotv.com.br.EK
+#EXTINF:-1,TH+ Band Litoral
+http://www.clarotv.com.br.EK
+#EXTINF:-1,Band - TV Taroba
+http://www.clarotv.com.br.EK
+#EXTINF:-1,C3 TV
+http://www.clarotv.com.br.EK
+#EXTINF:-1,Canal Like
+http://www.clarotv.com.br.EK
+#EXTINF:-1,CentralTV
+http://www.clarotv.com.br.EK
+#EXTINF:-1,ISTV
+http://www.clarotv.com.br.EK
+#EXTINF:-1,TV Evangelizar
+http://www.clarotv.com.br.EK
+#EXTINF:-1,Rede Mundial
+http://www.clarotv.com.br.EK
+#EXTINF:-1,TH+ TV
+http://www.clarotv.com.br.EK
+#EXTINF:-1,Record - TV Paranaiba
+http://www.clarotv.com.br.EK
+#EXTINF:-1,Record - RICtv Curitiba
+http://www.clarotv.com.br.EK
+#EXTINF:-1,TV Cultura - TV Nova
+http://www.clarotv.com.br.EK
+#EXTINF:-1,Canal 21
+http://www.meuguia.tv
+#EXTINF:-1,DW Espanol
+http://www.meuguia.tv
+#EXTINF:-1,BM&C
+http://www.clarotvmais.com.br
+#EXTINF:-1,Canal Uol
+http://www.clarotvmais.com.br
+#EXTINF:-1,CNN Money
+http://www.clarotvmais.com.br
+#EXTINF:-1,Combate
+http://www.clarotvmais.com.br
+#EXTINF:-1,LMC+
+http://www.clarotvmais.com.br
+#EXTINF:-1,Nosso Futebol
+http://www.clarotvmais.com.br
+#EXTINF:-1,Nosso Futebol+ 1
+http://www.clarotvmais.com.br
+#EXTINF:-1,Nosso Futebol+ 2
+http://www.clarotvmais.com.br
+#EXTINF:-1,Nosso Futebol+ 3
+http://www.clarotvmais.com.br
+#EXTINF:-1,NSports
+http://www.clarotvmais.com.br
+#EXTINF:-1,Paramount+ 1
+http://www.clarotvmais.com.br
+#EXTINF:-1,Paramount+ 2
+http://www.clarotvmais.com.br
+#EXTINF:-1,Paramount+ 3
+http://www.clarotvmais.com.br
+#EXTINF:-1,Paramount+ 4
+http://www.clarotvmais.com.br
+#EXTINF:-1,SporTV 4
+http://www.clarotvmais.com.br
+#EXTINF:-1,Times Brasil CNBC
+http://www.clarotvmais.com.br
+#EXTINF:-1,Trip Brasil Channel
+http://www.clarotvmais.com.br
+#EXTINF:-1,Universal Premiere
+http://www.clarotvmais.com.br
+#EXTINF:-1,Universal Reality
+http://www.clarotvmais.com.br
+#EXTINF:-1,Band Bahia
+http://www.band.uol.com.br
+#EXTINF:-1,Band Brasilia
+http://www.band.uol.com.br
+#EXTINF:-1,Band Ceara
+http://www.band.uol.com.br
+#EXTINF:-1,Band Mais
+http://www.band.uol.com.br
+#EXTINF:-1,Band Maranhao
+http://www.band.uol.com.br
+#EXTINF:-1,Band Minas
+http://www.band.uol.com.br
+#EXTINF:-1,Band Paraná
+http://www.band.uol.com.br
+#EXTINF:-1,Band Paulista
+http://www.band.uol.com.br
+#EXTINF:-1,Band Piaui
+http://www.band.uol.com.br
+#EXTINF:-1,Band RN
+http://www.band.uol.com.br
+#EXTINF:-1,Band RS
+http://www.band.uol.com.br
+#EXTINF:-1,Band Rio
+http://www.band.uol.com.br
+#EXTINF:-1,Band Rio Interior
+http://www.band.uol.com.br
+#EXTINF:-1,Band SP
+http://www.band.uol.com.br
+#EXTINF:-1,Band Tocantins
+http://www.band.uol.com.br
+#EXTINF:-1,Band Triangulo
+http://www.band.uol.com.br
+#EXTINF:-1,Band Vale
+http://www.band.uol.com.br
+#EXTINF:-1,A&E
+http://www.mi.tv
+#EXTINF:-1,Adult Swim
+http://www.mi.tv
+#EXTINF:-1,AgroMais
+http://www.mi.tv
+#EXTINF:-1,Amazon Sat
+http://www.mi.tv
+#EXTINF:-1,AMC
+http://www.mi.tv
+#EXTINF:-1,Animal Planet
+http://www.mi.tv
+#EXTINF:-1,Arte 1
+http://www.mi.tv
+#EXTINF:-1,AXN
+http://www.mi.tv
+#EXTINF:-1,Band Amazonas
+http://www.mi.tv
+#EXTINF:-1,Band - TV Barriga Verde
+http://www.mi.tv
+#EXTINF:-1,Band - TV Sucesso
+http://www.mi.tv
+#EXTINF:-1,Band - TV Guanandi
+http://www.mi.tv
+#EXTINF:-1,Band - TV Macapa
+http://www.mi.tv
+#EXTINF:-1,Band - TV Arapuan
+http://www.mi.tv
+#EXTINF:-1,Band - Rondovisao
+http://www.mi.tv
+#EXTINF:-1,Band - RBA TV
+http://www.mi.tv
+#EXTINF:-1,Band Roraima
+http://www.mi.tv
+#EXTINF:-1,Band - TV Tribuna ES
+http://www.mi.tv
+#EXTINF:-1,Band - TV Tribuna PE
+http://www.mi.tv
+#EXTINF:-1,Band - TV5
+http://www.mi.tv
+#EXTINF:-1,BandNews
+http://www.mi.tv
+#EXTINF:-1,BandSports
+http://www.mi.tv
+#EXTINF:-1,BBCTV News
+http://www.mi.tv
+#EXTINF:-1,BIS
+http://www.mi.tv
+#EXTINF:-1,Bloomberg
+http://www.mi.tv
+#EXTINF:-1,Boa Vontade
+http://www.mi.tv
+#EXTINF:-1,Box Kids TV
+http://www.mi.tv
+#EXTINF:-1,Canal Brasil
+http://www.mi.tv
+#EXTINF:-1,Canal do Boi
+http://www.mi.tv
+#EXTINF:-1,Canal Educacao
+http://www.mi.tv
+#EXTINF:-1,ChefTV
+http://www.mi.tv
+#EXTINF:-1,Canal Off
+http://www.mi.tv
+#EXTINF:-1,Canal Rural
+http://www.mi.tv
+#EXTINF:-1,Cancao Nova
+http://www.mi.tv
+#EXTINF:-1,Cartoon Network
+http://www.mi.tv
+#EXTINF:-1,Cartoonito
+http://www.mi.tv
+#EXTINF:-1,CINEBRASiLTV
+http://www.mi.tv
+#EXTINF:-1,Cinemax
+http://www.mi.tv
+#EXTINF:-1,CGTN
+http://www.mi.tv
+#EXTINF:-1,CNN Brasil
+http://www.mi.tv
+#EXTINF:-1,CNN en Espanol
+http://www.mi.tv
+#EXTINF:-1,CNN International
+http://www.mi.tv
+#EXTINF:-1,CNT
+http://www.mi.tv
+#EXTINF:-1,Comedy Central
+http://www.mi.tv
+#EXTINF:-1,Curta!
+http://www.mi.tv
+#EXTINF:-1,Discovery Channel
+http://www.mi.tv
+#EXTINF:-1,Discovery Home&Health
+http://www.mi.tv
+#EXTINF:-1,Discovery Kids
+http://www.mi.tv
+#EXTINF:-1,Discovery Science
+http://www.mi.tv
+#EXTINF:-1,Discovery Theater
+http://www.mi.tv
+#EXTINF:-1,Discovery Turbo
+http://www.mi.tv
+#EXTINF:-1,Discovery World
+http://www.mi.tv
+#EXTINF:-1,DOGTV
+http://www.mi.tv
+#EXTINF:-1,Dreamworks Channel
+http://www.mi.tv
+#EXTINF:-1,E!
+http://www.mi.tv
+#EXTINF:-1,ESPN
+http://www.mi.tv
+#EXTINF:-1,ESPN2
+http://www.mi.tv
+#EXTINF:-1,ESPN3
+http://www.mi.tv
+#EXTINF:-1,ESPN4
+http://www.mi.tv
+#EXTINF:-1,ESPN5
+http://www.mi.tv
+#EXTINF:-1,ESPN6
+http://www.mi.tv
+#EXTINF:-1,Eurochannel
+http://www.mi.tv
+#EXTINF:-1,EuroNews Português
+http://www.mi.tv
+#EXTINF:-1,FashionTV
+http://www.mi.tv
+#EXTINF:-1,Film&Arts
+http://www.mi.tv
+#EXTINF:-1,Fish TV
+http://www.mi.tv
+#EXTINF:-1,Food Network
+http://www.mi.tv
+#EXTINF:-1,Fox News
+http://www.mi.tv
+#EXTINF:-1,France 24 Espanol
+http://www.mi.tv
+#EXTINF:-1,Futura
+http://www.mi.tv
+#EXTINF:-1,GloboNews
+http://www.mi.tv
+#EXTINF:-1,Gloob
+http://www.mi.tv
+#EXTINF:-1,Gloobinho
+http://www.mi.tv
+#EXTINF:-1,Golf Channel
+http://www.mi.tv
+#EXTINF:-1,GNT
+http://www.mi.tv
+#EXTINF:-1,HBO
+http://www.mi.tv
+#EXTINF:-1,HBO 2
+http://www.mi.tv
+#EXTINF:-1,HBO + 
+http://www.mi.tv
+#EXTINF:-1,HBO Family
+http://www.mi.tv
+#EXTINF:-1,HBO Mundi
+http://www.mi.tv
+#EXTINF:-1,HBO Pop
+http://www.mi.tv
+#EXTINF:-1,HBO Signature
+http://www.mi.tv
+#EXTINF:-1,HBO Xtreme
+http://www.mi.tv
+#EXTINF:-1,HGTV
+http://www.mi.tv
+#EXTINF:-1,History
+http://www.mi.tv
+#EXTINF:-1,History 2
+http://www.mi.tv
+#EXTINF:-1,ID - Investigacao Discovery
+http://www.mi.tv
+#EXTINF:-1,Ideal TV
+http://www.mi.tv
+#EXTINF:-1,Jovem Pan News
+http://www.mi.tv
+#EXTINF:-1,Lifetime
+http://www.mi.tv
+#EXTINF:-1,Canal Markket
+http://www.mi.tv
+#EXTINF:-1,Mega TV
+http://www.mi.tv
+#EXTINF:-1,Megapix
+http://www.mi.tv
+#EXTINF:-1,Modo Viagem
+http://www.mi.tv
+#EXTINF:-1,MTV
+http://www.mi.tv
+#EXTINF:-1,MTV 00s
+http://www.mi.tv
+#EXTINF:-1,MTV Live
+http://www.mi.tv
+#EXTINF:-1,Multishow
+http://www.mi.tv
+#EXTINF:-1,Music Box Brazil
+http://www.mi.tv
+#EXTINF:-1,Canal Gov
+http://www.mi.tv
+#EXTINF:-1,NHK World-Japan
+http://www.mi.tv
+#EXTINF:-1,Nickelodeon
+http://www.mi.tv
+#EXTINF:-1,Nick Jr.
+http://www.mi.tv
+#EXTINF:-1,Paramount Network
+http://www.mi.tv
+#EXTINF:-1,PlayTV
+http://www.mi.tv
+#EXTINF:-1,Premiere Clubes
+http://www.mi.tv
+#EXTINF:-1,Premiere 2
+http://www.mi.tv
+#EXTINF:-1,Premiere 3
+http://www.mi.tv
